@@ -1,0 +1,285 @@
+[
+{
+    
+    "categoryID":"1",
+    "subcategoreis":
+    [
+       [
+        {
+            "subCategoryId":"1",
+            "subCategoryName":"Donuts",
+            "subCategoryImg":"https://placehold.co/600x400/png",
+            "products":
+            [
+                {
+                "productId":"1",
+                "name": "Cinnabon Classic Roll",
+                "price": "90",
+                "numOdStock": "6",
+                "imgSource": "https://placehold.co/600x400/png",
+                "bestSeller": "true",
+                "desc":"sweet and "
+                },
+                {
+                    "productId":"2",
+                    "name": "Cinnabon Roll",
+                    "price": "80",
+                    "numOdStock": "2",
+                    "imgSource": "https://placehold.co/600x400/png",
+                    "bestSeller": "true",
+                    "desc":"sweet and "
+                },
+                {
+                    "productId":"3",
+                    "name": "Cinnabon Classic Roll",
+                    "price": "90",
+                    "numOdStock": "6",
+                    "imgSource": "https://placehold.co/600x400/png",
+                    "bestSeller": "true",
+                    "desc":"sweet and "
+                }
+            ]
+
+        },
+        {
+            "subCategoryId":"2",
+            "subCategoryName":"cinnabon",
+            "subCategoryImg":"https://placehold.co/600x400/png",
+            "products":
+            [
+                {
+                "productId":"1",
+                "name": "Cinnabon Classic Roll",
+                "price": "90",
+                "numOdStock": "6",
+                "imgSource": "https://placehold.co/600x400/png",
+                "bestSeller": "true",
+                "desc":"sweet and "
+                },
+                {
+                    "productId":"2",
+                    "name": "Cinnabon Roll",
+                    "price": "80",
+                    "numOdStock": "2",
+                    "imgSource": "https://placehold.co/600x400/png",
+                    "bestSeller": "true",
+                    "desc":"sweet and "
+                },
+                {
+                    "productId":"3",
+                    "name": "Cinnabon Classic Roll",
+                    "price": "90",
+                    "numOdStock": "6",
+                    "imgSource": "https://placehold.co/600x400/png",
+                    "bestSeller": "true",
+                    "desc":"sweet and "
+                }
+            ]
+
+        },
+        {
+            "subCategoryId":"1",
+            "subCategoryName":"Donuts",
+            "subCategoryImg":"https://placehold.co/600x400/png",
+            "products":
+            [
+                {
+                "productId":"1",
+                "name": "Cinnabon Classic Roll",
+                "price": "90",
+                "numOdStock": "6",
+                "imgSource": "https://placehold.co/600x400/png",
+                "bestSeller": "true",
+                "desc":"sweet and "
+                },
+                {
+                    "productId":"2",
+                    "name": "Cinnabon Roll",
+                    "price": "80",
+                    "numOdStock": "2",
+                    "imgSource": "https://placehold.co/600x400/png",
+                    "bestSeller": "true",
+                    "desc":"sweet and "
+                },
+                {
+                    "productId":"3",
+                    "name": "Cinnabon Classic Roll",
+                    "price": "90",
+                    "numOdStock": "6",
+                    "imgSource": "https://placehold.co/600x400/png",
+                    "bestSeller": "true",
+                    "desc":"sweet and "
+                }
+            ]
+
+        }
+        
+       ]
+    ]
+},
+{
+    
+    "categoryID":"2",
+    "subcategoreis":
+    [
+       [
+        {
+            "subCategoryId":"1",
+            "subCategoryName":"cake",
+            "subCategoryImg":"https://placehold.co/600x400/png",
+            "products":
+            [
+                {
+                "productId":"1",
+                "name": "cupcake",
+                "price": "90",
+                "numOdStock": "6",
+                "imgSource": "https://placehold.co/600x400/png",
+                "bestSeller": "true",
+                "desc":"sweet and "
+                },
+                {
+                    "productId":"2",
+                    "name": "Cinnabon Roll",
+                    "price": "80",
+                    "numOdStock": "2",
+                    "imgSource": "https://placehold.co/600x400/png",
+                    "bestSeller": "true",
+                    "desc":"sweet and "
+                },
+                {
+                    "productId":"3",
+                    "name": "Cinnabon Classic Roll",
+                    "price": "90",
+                    "numOdStock": "6",
+                    "imgSource": "https://placehold.co/600x400/png",
+                    "bestSeller": "true",
+                    "desc":"sweet and "
+                }
+            ]
+
+        },
+        {
+            "subCategoryId":"2",
+            "subCategoryName":"cinnabon",
+            "subCategoryImg":"https://placehold.co/600x400/png",
+            "products":
+            [
+                {
+                "productId":"1",
+                "name": "Cinnabon Classic Roll",
+                "price": "90",
+                "numOdStock": "6",
+                "imgSource": "https://placehold.co/600x400/png",
+                "bestSeller": "true",
+                "desc":"sweet and "
+                },
+                {
+                    "productId":"2",
+                    "name": "Cinnabon Roll",
+                    "price": "80",
+                    "numOdStock": "2",
+                    "imgSource": "https://placehold.co/600x400/png",
+                    "bestSeller": "true",
+                    "desc":"sweet and "
+                },
+                {
+                    "productId":"3",
+                    "name": "Cinnabon Classic Roll",
+                    "price": "90",
+                    "numOdStock": "6",
+                    "imgSource": "https://placehold.co/600x400/png",
+                    "bestSeller": "true",
+                    "desc":"sweet and "
+                }
+            ]
+
+        }
+        
+       ]
+    ]
+},
+{
+    
+    "categoryID":"3",
+    "subcategoreis":
+    [
+       [
+        {
+            "subCategoryId":"1",
+            "subCategoryName":"hot drinks",
+            "subCategoryImg":"https://placehold.co/600x400/png",
+            "products":
+            [
+                {
+                "productId":"1",
+                "name": "Cinnabon Classic Roll",
+                "price": "90",
+                "numOdStock": "6",
+                "imgSource": "https://placehold.co/600x400/png",
+                "bestSeller": "true",
+                "desc":"sweet and "
+                },
+                {
+                    "productId":"2",
+                    "name": "Cinnabon Roll",
+                    "price": "80",
+                    "numOdStock": "2",
+                    "imgSource": "https://placehold.co/600x400/png",
+                    "bestSeller": "true",
+                    "desc":"sweet and "
+                },
+                {
+                    "productId":"3",
+                    "name": "Cinnabon Classic Roll",
+                    "price": "90",
+                    "numOdStock": "6",
+                    "imgSource": "https://placehold.co/600x400/png",
+                    "bestSeller": "true",
+                    "desc":"sweet and "
+                }
+            ]
+
+        },
+        {
+            "subCategoryId":"2",
+            "subCategoryName":"cold drinks",
+            "subCategoryImg":"https://placehold.co/600x400/png",
+            "products":
+            [
+                {
+                "productId":"1",
+                "name": "Cinnabon Classic Roll",
+                "price": "90",
+                "numOdStock": "6",
+                "imgSource": "https://placehold.co/600x400/png",
+                "bestSeller": "true",
+                "desc":"sweet and "
+                },
+                {
+                    "productId":"2",
+                    "name": "Cinnabon Roll",
+                    "price": "80",
+                    "numOdStock": "2",
+                    "imgSource": "https://placehold.co/600x400/png",
+                    "bestSeller": "true",
+                    "desc":"sweet and "
+                },
+                {
+                    "productId":"3",
+                    "name": "Cinnabon Classic Roll",
+                    "price": "90",
+                    "numOdStock": "6",
+                    "imgSource": "https://placehold.co/600x400/png",
+                    "bestSeller": "true",
+                    "desc":"sweet and "
+                }
+            ]
+
+        }
+        
+       ]
+    ]
+}
+]
+    
